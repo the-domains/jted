@@ -1,0 +1,23 @@
+name: jted
+favicon: null
+layout_spectrum: 0.39352974528446794
+typography_spectrum: 0.9009895727504045
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5837960015051067
+  lightness: 0.13362958980724216
+  saturation: 0.777705796295777
+  rhythmicContrast: 0.47520607034675777
+purpose: []
